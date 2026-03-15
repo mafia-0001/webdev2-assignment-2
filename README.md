@@ -1,54 +1,73 @@
-📌 Project Overview
+# 🌐 WebDev2 Assignment 2
 
-This project is part of the Web Development 2 assignment.
-It demonstrates the use of HTML, CSS, and JavaScript to build an interactive web application.
+A simple web development project built using **HTML, CSS, and JavaScript**.
 
-The main goal of this assignment is to understand how front-end technologies work together to create responsive and functional web pages.
+---
 
-⸻
+## 📌 About the Project
 
-🚀 Features
-	•	Responsive web design
-	•	Interactive user interface
-	•	JavaScript based functionality
-	•	Clean and simple layout
-	•	Beginner-friendly implementation
+This project is created as part of the **Web Development 2 assignment**.  
+The goal of this project is to demonstrate how **HTML, CSS, and JavaScript** work together to create an interactive and responsive web application.
 
-⸻
+---
 
-🛠 Technologies Used
-	•	HTML5 – Structure of the webpage
-	•	CSS3 – Styling and layout
-	•	JavaScript (ES6) – Logic and interactivity
+## 🚀 Features
 
-⸻
+- Responsive user interface  
+- Interactive elements using JavaScript  
+- Simple and clean design  
+- Beginner-friendly implementation  
 
-	3.	Open index.html in your browser.
+---
 
-⸻
+## 🛠 Technologies Used
 
-🎯 Learning Objectives
+- **HTML5** – Structure of the webpage  
+- **CSS3** – Styling and layout  
+- **JavaScript** – Functionality and interactivity  
 
-This project helps in understanding:
-	•	DOM manipulation
-	•	Event handling in JavaScript
-	•	Structuring a simple web project
-	•	Basic front-end development workflow
+---
 
-⸻
+## 📂 Project Structure
 
-👨‍💻 Author
+webdev2-assignment-2  
+│  
+├── index.html  
+├── style.css  
+├── script.js  
+└── README.md  
 
-Sambhav
+---
 
-GitHub:
-https://github.com/mafia-0001
+## ⚙️ How to Run the Project
 
-⸻
+1. Clone the repository
 
-📜 License
+git clone https://github.com/mafia-0001/webdev2-assignment-2.git
 
-This project is created for educational purposes only.
+2. Open the project folder
 
-⸻
+cd webdev2-assignment-2
 
+3. Open **index.html** in your browser.
+
+---
+
+## 🎯 Learning Objectives
+
+- Understanding DOM manipulation  
+- Learning JavaScript event handling  
+- Building structured web projects  
+- Practicing frontend development  
+
+---
+
+## 👨‍💻 Author
+
+**Pintu**
+
+GitHub: https://github.com/mafia-0001
+
+---
+
+⭐ This project is created for **learning and educational purposes*
