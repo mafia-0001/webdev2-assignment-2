@@ -1,74 +1,54 @@
-WebDev2 Assignment 2
+📌 Project Overview
 
-This repository contains the solution for Web Development Assignment 2.
-The project demonstrates the use of HTML, CSS, and JavaScript concepts to build a functional and interactive web page.
+This project is part of the Web Development 2 assignment.
+It demonstrates the use of HTML, CSS, and JavaScript to build an interactive web application.
 
-Project Overview
+The main goal of this assignment is to understand how front-end technologies work together to create responsive and functional web pages.
 
-The goal of this assignment is to practice fundamental web development concepts including:
+⸻
 
-Structuring web pages using HTML
+🚀 Features
+	•	Responsive web design
+	•	Interactive user interface
+	•	JavaScript based functionality
+	•	Clean and simple layout
+	•	Beginner-friendly implementation
 
-Styling and layout using CSS
+⸻
 
-Adding interactivity using JavaScript
+🛠 Technologies Used
+	•	HTML5 – Structure of the webpage
+	•	CSS3 – Styling and layout
+	•	JavaScript (ES6) – Logic and interactivity
 
-Managing and publishing code using Git and GitHub
+⸻
 
-This project helps in understanding how different web technologies work together to build a complete front-end application.
+	3.	Open index.html in your browser.
 
-Features
+⸻
 
-Responsive web page layout
+🎯 Learning Objectives
 
-Clean and structured UI
+This project helps in understanding:
+	•	DOM manipulation
+	•	Event handling in JavaScript
+	•	Structuring a simple web project
+	•	Basic front-end development workflow
 
-Interactive elements using JavaScript
+⸻
 
-Organized project folder structure
-
-Technologies Used
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Git & GitHub
-
-Project Structure
-webdev2-assignment-2
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-How to Run the Project
-
-Clone the repository
-
-git clone https://github.com/mafia-0001/webdev2-assignment-2.git
-
-Open the project folder.
-
-Run the project by opening index.html in your browser.
-
-Learning Outcomes
-
-Through this assignment, I learned:
-
-Basic front-end development workflow
-
-DOM manipulation with JavaScript
-
-Styling and layout techniques using CSS
-
-Version control using Git
-
-Author
+👨‍💻 Author
 
 Sambhav
 
 GitHub:
 https://github.com/mafia-0001
+
+⸻
+
+📜 License
+
+This project is created for educational purposes only.
+
+⸻
+
