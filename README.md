@@ -64,7 +64,7 @@ cd webdev2-assignment-2
 
 ## 👨‍💻 Author
 
-**Pintu**
+**Sambhav**
 
 GitHub: https://github.com/mafia-0001
 
